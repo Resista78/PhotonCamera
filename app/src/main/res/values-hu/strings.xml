@@ -585,7 +585,7 @@
     <string name="settings_backup_settings">Beállítások biztonsági mentése</string>
     <string name="settings_backup_settings_description">A beállítások, valamint az egyéni importált LUT-ok, keretek és DCP-profilok biztonsági mentése.</string>
     <string name="settings_restore_settings">Beállítások visszaállítása</string>
-    <string name="settings_restore_settings_description">Visszaállítás egy korábbi biztonsági mentésből származó ZIP-fájlból. Az alkalmazás újraindítása szükséges lehet az alkalmazáshoz.</string>
+    <string name="settings_restore_settings_description">Visszaállítás egy korábbi biztonsági mentésből származó ZIP-fájlból. A módosítások alkalmazásához szükség lehet az alkalmazás újraindítására.</string>
     <string name="backup_success">A biztonsági mentés sikeresen elkészült</string>
     <string name="backup_failed">A biztonsági mentés sikertelen</string>
     <string name="backup_in_progress">Beállítások és egyéni tartalmak biztonsági mentése...</string>
