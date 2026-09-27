@@ -1165,7 +1165,7 @@
     <string name="preset_builtin_badge">Beépített</string>
     <string name="gallery">Galéria</string>
     <string name="settings_raw_default_sharpening_section">Alapértelmezett élesítés</string>
-    <string name="settings_raw_default_sharpening">Élesség</string>
+    <string name="settings_raw_default_sharpening">Élesítés</string>
     <string name="settings_raw_default_sharpening_description">A RAW-felvételek előhívásakor alapértelmezés szerint alkalmazott élesítés.</string>
     <string name="settings_raw_max_default_sharpening">RAWmax alapértelmezett élesítés</string>
     <string name="settings_raw_max_default_sharpening_description">A RAWmax-felvételek előhívásakor alapértelmezés szerint alkalmazott élesítés.</string>
