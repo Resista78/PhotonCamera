@@ -703,10 +703,10 @@
     <string name="frame_editor_photo_shadow_offset_y">Árnyék Y-eltolása (dp)</string>
     <string name="frame_editor_photo_shadow_color">Árnyék színe</string>
     <string name="frame_editor_image_hint">A képes keretek átlátszó PNG- vagy WebP-fájlt használnak. A kiválasztott fájl az alkalmazás tárhelyére lesz másolva.</string>
-    <string name="frame_editor_pick_image">Keretkép kiválasztása</string>
+    <string name="frame_editor_pick_image">Képkeret kiválasztása</string>
     <string name="frame_editor_image_source_path">Képforrás: %s</string>
     <string name="frame_editor_image_source_builtin">Beépített fájl: %s</string>
-    <string name="frame_editor_image_source_missing">Még nincs kiválasztva keretkép.</string>
+    <string name="frame_editor_image_source_missing">Még nincs kiválasztva képkeret.</string>
     <string name="frame_editor_elements_disabled_title">Az elemek nem érhetők el</string>
     <string name="frame_editor_elements_disabled_message">A KÉP mód csak a kiválasztott keretképet használja. Válts másik pozícióra a szöveg, a logó, az elválasztó vagy a térköz szerkesztéséhez.</string>
     <string name="frame_editor_add_element">Elem hozzáadása</string>
