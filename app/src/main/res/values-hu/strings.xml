@@ -1064,7 +1064,7 @@
     <string name="settings_default_virtual_aperture">Alapértelmezett virtuális rekesz</string>
     <string name="settings_default_virtual_aperture_description">Új fényképeknél automatikusan engedélyezi a virtuális rekeszt a kiválasztott rekeszértékkel.</string>
     <string name="virtual_aperture_depth_model_description">A Depth Anything V2 modellt használja. Az első használatkor töltsd le vagy importáld a modellt (kb. 100 MB).</string>
-    <string name="gallery_large_aperture_blur_title">Nagy rekeszértékű elmosás</string>
+    <string name="gallery_large_aperture_blur_title">Nyitott rekeszes elmosás</string>
     <string name="gallery_large_aperture_blur_description">A Depth Anything V2 segítségével megbecsüli a jelenet mélységét, majd kis mélységélességet, háttérelmosást és lágy bokeh-csúcsfényeket szimulál. A fókuszpont módosításához koppints a képre. Az alacsonyabb f-értékek erősebb elmosást eredményeznek. Az első használatkor töltsd le vagy importáld a modellt (kb. 100 MB).</string>
     <string name="edit_panel_title">Szerkesztési vezérlők</string>
     <string name="edit_panel_expand">Szerkesztési vezérlők kibontása</string>
